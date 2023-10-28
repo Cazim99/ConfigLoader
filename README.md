@@ -1,6 +1,3 @@
-"""
-THIS MODULE IS CREATE BY CAZIM HAMIDOVIC (ZC-Team)
-CONTACT INFO: cazimhamidovic@outlook.com
 
 
 HOW TO USE EXAMPLE ( bool, str, int and other means what type is item value in .ini file)
@@ -37,5 +34,3 @@ HOW TO USE EXAMPLE ( bool, str, int and other means what type is item value in .
  ... test.py ...
 
 if you dont define the variable type(section item) it will auto load in 'CONFIGURATIONS' with ast module and detect variable type
-
-"""
