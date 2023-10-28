@@ -7,7 +7,7 @@ HOW TO USE EXAMPLE ( bool, str, int and other means what type is item value in .
     [settings]
     bool_test = False
     int_test = 6
-    string_test = True
+    string_test = Hello my friend
     other_test = 6
     notdefined_test = 4,3,4
 
