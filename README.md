@@ -20,11 +20,10 @@ HOW TO USE EXAMPLE ( bool, str, int and other means what type is item value in .
         "settings": # SECTION NAME
             {
                 'items':{ # SECTION ITEMS 
-                    'full_screen':'bool',
-                    'dev_mode':'bool',
-                    'screen_size':'other',
-                    'server_host':'str',
-                    'server_port':'int',
+                    'bool_test':'bool',
+                    'int_test':'int',
+                    'string_test':'str',
+                    'other_test':'other',
                 }
             },
     }
